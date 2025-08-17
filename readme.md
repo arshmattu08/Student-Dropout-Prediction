@@ -1,1 +1,1 @@
-# This project is about applying ML models to predict student dropout.
+### This project is about applying ML models to predict student dropout.

@@ -1,0 +1,15 @@
+name: student_dropout_prediction
+dependencies:
+  - python=3.12.2
+  - pip
+  - pip:
+    - pandas
+    - numpy
+    - plotly
+    - streamlit
+    - ipykernel
+    - scikit-learn 
+    - tensorflow
+    - seaborn
+    - matplotlib
+    - keras
